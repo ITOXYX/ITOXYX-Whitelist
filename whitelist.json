@@ -1,13 +1,6 @@
 {
-  "KEYS_AVAILABLE": {
-    "FREE-1DAY-ARGA": 86400,
-    "VIP-3DAYS-ARGA": 259200,
-    "VIP-ETERNAL-ARGA": 999999999
-  },
+  "KEYS_AVAILABLE": { "FREE-1DAY-ARGA": 86400 },
   "USED_KEYS": {
-    "02c6d8d4-4531-4edd-b212-46da7": {
-       "key": "FREE-1DAY-ARGA",
-       "expires": 1740873600
-    }
+    "02c6d8d4-4531-4edd-b212-46da7": { "expires": 9999999999 }
   }
 }
